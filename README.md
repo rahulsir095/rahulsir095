@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m Rahul Kumar <br>🌱 I'm currently learning Next.js<br>💬 Ask me anytime about web development<br>⚡ Fun fact: I’m fluent in JavaScript, but I’m still trying to master the art of making a perfect cup of coffee!<br>
+🤝 I’m <b>Rahul Kumar <b> <br>🌱 I'm currently learning Next.js<br>💬 Ask me anytime about web development<br>⚡ Fun fact: I’m fluent in JavaScript, but I’m still trying to master the art of making a perfect cup of coffee!<br>
 
 
 ## 🌐 Socials:
